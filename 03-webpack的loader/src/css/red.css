@@ -1,3 +1,6 @@
 .red{
     background: red;
 }
+body{
+    background: url("../img/simple.png");
+}
